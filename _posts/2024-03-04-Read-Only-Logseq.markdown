@@ -16,8 +16,12 @@ Logseq has a [demo site](https://demo.logseq.com/). However, several button pres
 
 ![Step 4](/assets/2024-03-04-Read-Only-Logseq/4.png){:style="display:block; margin-left:auto; margin-right:auto"}
 
+A functioning "view only mode" should automatically click on these buttons. 
+
+Since Logseq does not seem too interested in making a functioning webapp, I've written a [Tampermonkey](https://tampermonkey.net/) script to do this. 
+
 This is a tampermonkey script to automatically click these buttons, and to disable mouse and keyboard input to achieve view only mode.
 
 <script src="https://gist.github.com/yuyangchee98/1dc49651895b9d4086c8e5622b56911b.js"></script>
 
-The demo logseq site can then be set as the new tab page, allowing a quick glance at your Logseq journal every time a new tab is opened.
+Personally, I use this as a new tab page, allowing a quick glance at your Logseq journal every time a new tab is opened.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Read only logseq"
+title:  "TamperMonkey script for a read only logseq that runs in the browser"
 date:   2024-03-04 00:00:00 +0900
 categories: logseq
 ---

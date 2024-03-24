@@ -21,12 +21,14 @@
 title: Yang
 description: 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://yangyuyangyu.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+google_analytics: G-7XRTK0F6HR
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.

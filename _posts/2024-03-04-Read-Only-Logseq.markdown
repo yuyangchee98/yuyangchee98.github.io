@@ -23,5 +23,3 @@ Since Logseq does not seem too interested in making a functioning webapp, I've w
 This is a tampermonkey script to automatically click these buttons, and to disable mouse and keyboard input to achieve view only mode.
 
 <script src="https://gist.github.com/yuyangchee98/1dc49651895b9d4086c8e5622b56911b.js"></script>
-
-Personally, I use this as a new tab page, allowing a quick glance at your Logseq journal every time a new tab is opened.

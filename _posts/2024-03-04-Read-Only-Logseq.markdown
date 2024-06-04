@@ -18,8 +18,8 @@ Logseq has a [demo site](https://demo.logseq.com/). However, several button pres
 
 A functioning "view only mode" should automatically click on these buttons. 
 
-Since Logseq does not seem too interested in making a functioning webapp, I've written a [Tampermonkey](https://tampermonkey.net/) script to do this. 
+Since Logseq does not seem too interested in making a functioning webapp, I've written a [userscript](https://tampermonkey.net/)  to do this. 
 
-This is a tampermonkey script to automatically click these buttons, and to disable mouse and keyboard input to achieve view only mode.
+This is a userscript to automatically click these buttons, and to disable mouse and keyboard input to achieve view only mode.
 
 <script src="https://gist.github.com/yuyangchee98/1dc49651895b9d4086c8e5622b56911b.js"></script>
